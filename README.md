@@ -37,7 +37,7 @@ alerta(mensagem)
 ---
 
 ## Contribua com este projeto
-Pull requests são bem vindos. Envie uma [mensagem](https://github.com/Leo5586/aulaGit/issues) pra nós. Gostaria de conhecer melhor as suas ideias!
+Pull requests são bem vindos. Envie uma [mensagem](https://github.com/Leo5586/aulaGit/issues). Gostaria de conhecer melhor as suas ideias!
 
 ## Licença
 
