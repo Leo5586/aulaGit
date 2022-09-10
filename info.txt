@@ -1,3 +1,33 @@
-Funções do sistema
+Como escrever meu readme.md?
 
-alerta > exibe mensagem ao usuário
+[] Título
+[] Descrição [O que faz o seu projeto?]
+[] Indice
+[] Como instalar
+[] Como usar
+[] Contribuição
+[] Créditos
+[] Licenças https://choosealicense.com/
+[] Icones > https://shields.io/
+
+
+![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png"Javascript")
+
+## Meu primeiro projeto com GitHub
+
+- Instale o Visual Studio Code
+- Abra os exemplos em HTML em seu navegador WEB
+- Teste a partir do console 'CTRL+SHIFT+C'
+
+
+```javascript
+//Javascript
+
+//return 'mensagem ao usuário'
+alerta('mensagem')
+
+//return 'saudacao'
+alerta('mensagem')
+
+## Contribua com este projeto
+Pull requests são bem vindos. Envie uma [mensagem](https://github.com/Leo5586/aulaGit/issues) pra nós. Gostaria de conhecer melhor as suas ideias!
